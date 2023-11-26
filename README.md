@@ -1,2 +1,4 @@
 # gator-scanner
-A short utility program for educational purpose to understand how port scanning works
+A short utility program to understand how port scanning works
+
+# To be determined...
